@@ -84,7 +84,7 @@
 
 -----
 ### Contributing
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls).
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/nazhao-ai/Awesome-Dentistry-AI/pulls).
 
 -----
 ## License

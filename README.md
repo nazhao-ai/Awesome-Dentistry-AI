@@ -6,8 +6,6 @@
 
 * **[Courses](#courses)**  
 
-* **[Videos and Lectures](#videos-and-lectures)**  
-
 * **[Papers](#papers)**  
 
 * **[Tutorials](#tutorials)**  
@@ -36,9 +34,7 @@
 ### Courses
 
 1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera (2010-2014)
-### Videos and Lectures
 
-1.  [Recent Developments in Deep Learning](https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) By Geoff Hinton
 ### Papers
 1.  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 2.  [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)

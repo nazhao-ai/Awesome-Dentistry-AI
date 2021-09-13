@@ -24,6 +24,8 @@
 
 * **[Miscellaneous](#miscellaneous)**  
 
+* **[Startups](#startups)** 
+
 * **[Contributing](#contributing)**  
 
 
@@ -77,6 +79,11 @@
 
 1.  [Google Plus - Deep Learning Community](https://plus.google.com/communities/112866381580457264725)
 
+### Startups
+
+1. [Pearl](https://www.hellopearl.com/)
+2. [Overjet](https://www.overjet.ai/)
+3. [Denti.AI](https://www.denti.ai/)
 -----
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/nazhao-ai/Awesome-Dentistry-AI/pulls).

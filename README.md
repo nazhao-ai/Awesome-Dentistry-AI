@@ -31,7 +31,7 @@
 
 ### Books
 
-1.  [Machine Learning in Dentistry](https://www.springer.com/us/book/9783030718800) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
+1.  [Machine Learning in Dentistry](https://www.springer.com/us/book/9783030718800) by Ching-Chang Ko (Editor), Dinggang Shen (Editor), Li Wang (Editor)  (07/25/2021)
 
 ### Courses
 

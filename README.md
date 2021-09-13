@@ -31,8 +31,7 @@
 
 ### Books
 
-1.  [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
-2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
+1.  [Machine Learning in Dentistry](https://www.springer.com/us/book/9783030718800) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
 
 ### Courses
 

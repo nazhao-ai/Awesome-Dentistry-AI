@@ -38,8 +38,8 @@
 1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera (2010-2014)
 
 ### Papers
-1.  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-2.  [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
+1.  [An overview of deep learning in the field of dentistry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6444007/)
+
 
 ## Researchers
 

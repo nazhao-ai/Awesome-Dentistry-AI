@@ -39,7 +39,7 @@
 
 ### Papers
 1.  [An overview of deep learning in the field of dentistry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6444007/)
-
+2.  [Applications of deep learning in dentistry](https://www.sciencedirect.com/science/article/abs/pii/S2212440320313213)
 
 ## Researchers
 
